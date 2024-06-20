@@ -6,7 +6,7 @@
 <p align="center">
     <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat-square&logo=javascript&color=F7DF1E" alt="JavaScript" />
     <img src="https://img.shields.io/badge/Code-NodeJS-informational?style=flat-square&logo=node.js&color=339933" alt="NodeJS" />
-    <img src="https://img.shields.io/badge/Code-NestJS-informational?style=flat-square&logo=nest.js&color=E0234E" alt="NestJS" />
+    <img src="https://img.shields.io/badge/Code-NestJS-informational?style=flat-square&logo=nestjs&color=E0234E&logoColor=E0234E" alt="NestJS" />
     <img src="https://img.shields.io/badge/Tools-MySQL-informational?style=flat-square&logo=mysql&color=4479A1&logoColor=2496ED" alt="MySQL" />
 </p>
 
