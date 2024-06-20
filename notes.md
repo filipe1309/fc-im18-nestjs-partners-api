@@ -13,3 +13,11 @@ npm run start:dev
 ```
 
 http://localhost:3000/
+
+```bash
+nest g resource
+events
+REST API
+Y
+```
+
