@@ -14,6 +14,16 @@
 
 This project was developed following FullCycle's "[A grande oportunidade e início do projeto](https://imersao.fullcycle.com.br/aula/a-grande-oportunidade-e-inicio-do-projeto/)" class.
 
+
+## 🎨 Project Design
+
+```mermaid
+flowchart LR
+    P1[Partner 1] --> START((Lib Core))
+    P2[Partner 2] --> START((Lib Core))
+    P3[Partner 3] --> START((Lib Core))
+```
+
 ## :computer: Technologies
 
 - [Node.js](https://nodejs.org/en/)
@@ -24,8 +34,7 @@ This project was developed following FullCycle's "[A grande oportunidade e iníc
 
 ## :scroll: Requirements
 
-- [Docker](https://www.docker.com/)
-- [Docker Compose](https://docs.docker.com/compose/)
+- [Node.js](https://nodejs.org/en/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
