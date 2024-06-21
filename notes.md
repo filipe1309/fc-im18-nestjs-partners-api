@@ -21,3 +21,17 @@ REST API
 Y
 ```
 
+## Docker
+
+```bash
+docker compose up
+```
+
+```bash
+docker compose exec db bash
+mysql -uroot -proot
+show databases;
+```
+
+
+

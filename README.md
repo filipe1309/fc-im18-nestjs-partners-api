@@ -29,12 +29,14 @@ flowchart LR
 - [Node.js](https://nodejs.org/en/)
 - [NestJS](https://nestjs.com/)
 - [MySQL](https://www.mysql.com/)
+- [Prisma](https://www.prisma.io/)
+- [Docker](https://www.docker.com/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## :scroll: Requirements
 
-- [Node.js](https://nodejs.org/en/)
+- [Docker](https://www.docker.com/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
