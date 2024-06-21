@@ -33,5 +33,32 @@ mysql -uroot -proot
 show databases;
 ```
 
+## Prisma
 
+```bash
+npx prisma init
+```
+
+Afer creating and configuring the `schema.prisma`, and `.env` files:
+
+```bash
+npx prisma migrate dev
+```
+
+Verify table on db container:
+```bash
+use nest;
+show tables;
+describe Event;
+```
+
+Generate Prisma module:
+```bash
+nest g module prisma
+```
+
+Generate Prisma service:
+```bash
+nest g service prisma
+```
 
